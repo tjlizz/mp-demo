@@ -1,0 +1,9 @@
+
+server:
+  port: 8089
+
+spring:
+  profiles:
+    active: dev # 选择开发环境的配置
+missyou:
+  api-package: com.example.demo
